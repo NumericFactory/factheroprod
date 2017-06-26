@@ -31,7 +31,16 @@ $__container->servers([
 --}}
 
 @task('deploy', ['on' => 'web'])
-	cd web 
-	cd factheromarketlaravel
-	git remote -v
+	{{-- Target the project directory --}}
+	cd web/factheromarketlaravel
+	{{-- Pull latest changes from Repository --}}
+    git pull origin
+
+    {{-- Install project dependencies without development dependencies and without interaction 
+    composer install --prefer-source --no-interaction --no-dev
+    --}}
+
+    {{-- If there is anything to migrate, migrate it 
+    php artisan migrate
+    --}}
 @endtask
