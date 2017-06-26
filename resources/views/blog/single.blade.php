@@ -270,7 +270,6 @@
 	 	frm.submit().remove();
 	}
     $('#openlandingonnewtab').on("click", function () {
-    	alert("hello");
         openNewTab("https://facturehero.com/")
         return false;
     });
