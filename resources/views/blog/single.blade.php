@@ -55,7 +55,7 @@
 
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Pacifico|Source+Sans+Pro" rel="stylesheet"> 
 
 </head>
 
