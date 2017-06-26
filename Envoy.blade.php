@@ -34,7 +34,7 @@ $__container->servers([
 	{{-- Target the project directory --}}
 	cd web/factheromarketlaravel
 	{{-- Pull latest changes from Repository --}}
-    git pull origin
+    git pull origin master
 
     {{-- Install project dependencies without development dependencies and without interaction 
     composer install --prefer-source --no-interaction --no-dev
