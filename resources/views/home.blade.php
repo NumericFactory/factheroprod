@@ -15,7 +15,7 @@
         <div class="col-md-7 col-sm-6">
           <p style="margin: 0 0 25px;color: rgba(150,175,195,0.55);position: absolute;top: -98px;font-size: 1.6rem;" class="visible-xs">
             <i style="color: #EF6262; font-size:1.125em; position:relative; top:2px;margin-right: 7px;left:0" class="fa fa fa-arrow-circle-right"></i>
-           La solution de facturation<br>  des Autoentrepreneursss.
+           La solution de facturation<br>  des Autoentrepreneurs.
           </p>
           <div class="logo">
             <a href="#"><img src="img/fh-logomini.png"></a>
