@@ -224,7 +224,7 @@
 </div></div>
 
 
-<div style="border-top:3px solid #c7cacb; box-shadow: none; background: #e0f2f9 !important; color:#111" class="u-fixed u-bottom0 u-sizeFullWidth u-backgroundWhite u-boxShadowTop u-borderBox u-paddingTop10 u-paddingBottom10 u-zIndexMetabar u-xs-paddingLeft10 u-xs-paddingRight10 js-stickyFooter"><div class="u-maxWidth700 u-marginAuto u-flexCenter"><div class="u-fontSize16 u-flex1 u-flexCenter"><div class="u-flex0 u-inlineBlock u-paddingRight20 u-xs-paddingRight10"><a class="link avatar u-inline u-baseColor--link" href="https://facturehero.com" dir="auto"><img src="{{URL::asset('/img/fondateur-frederic.png')}}" class="avatar-image avatar-image--smaller" alt="Go to the profile of Roselle Gabuya"></a></div><div class="u-flex1 u-inlineBlock"><div class="u-xs-hide"><strong> FactureHero</strong> la solution facturation pour les Autoentrepreneurs<span class="hideunder767">, créée par un Autoentrepreneur.</span></div><div class="u-xs-show"><strong> FactureHero</strong> la solution facturation pour les Autoentrepreneurs<span class="hideunder767">,<br>créée par un Autoentrepreneur.</span></div></div></div><div class="u-marginLeft50 u-xs-marginAuto"><span class="followState js-followState buttonSet-inner" data-user-id="558d0c522f8d"><button class="button button--primary is-active u-noUserSelect button--withChrome u-accentColor--buttonNormal button--follow js-followButton u-uiTextSemibold u-textUppercase u-fontSize12"  data-redirect="https://facturehero.com" data-action-source="sticky_footer_follow"><span class="button-label  button-defaultState js-buttonLabel">Découvrir</span><span class="button-label button-activeState">Découvrir</span></button></span></div></div></div>
+<div style="border-top:3px solid #c7cacb; box-shadow: none; background: #e0f2f9 !important; color:#111" class="u-fixed u-bottom0 u-sizeFullWidth u-backgroundWhite u-boxShadowTop u-borderBox u-paddingTop10 u-paddingBottom10 u-zIndexMetabar u-xs-paddingLeft10 u-xs-paddingRight10 js-stickyFooter"><div class="u-maxWidth700 u-marginAuto u-flexCenter"><div class="u-fontSize16 u-flex1 u-flexCenter"><div class="u-flex0 u-inlineBlock u-paddingRight20 u-xs-paddingRight10"><a class="link avatar u-inline u-baseColor--link" href="https://facturehero.com" dir="auto"><img src="{{URL::asset('/img/fondateur-frederic.png')}}" class="avatar-image avatar-image--smaller" alt="Go to the profile of Roselle Gabuya"></a></div><div class="u-flex1 u-inlineBlock"><div class="u-xs-hide"><strong> FactureHero</strong> la solution facturation pour les Autoentrepreneurs<span class="hideunder767">, créée par un Autoentrepreneur.</span></div><div class="u-xs-show"><strong> FactureHero</strong> la solution facturation pour les Autoentrepreneurs<span class="hideunder767">,<br>créée par un Autoentrepreneur.</span></div></div></div><div class="u-marginLeft50 u-xs-marginAuto"><span class="followState js-followState buttonSet-inner" data-user-id="558d0c522f8d"><button id="openlandingonnewtab" class="button button--primary is-active u-noUserSelect button--withChrome u-accentColor--buttonNormal button--follow js-followButton u-uiTextSemibold u-textUppercase u-fontSize12" data-action-source="sticky_footer_follow"><span class="button-label  button-defaultState js-buttonLabel">Découvrir</span><span class="button-label button-activeState">Découvrir</span></button></span></div></div></div>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -258,13 +258,26 @@
   
   /* ================================================== */
   
-  $(document).ready(function ($) {
+ 
+
     $('.share').on("click", function(e) {
       $(this).customerPopup(e);
     });
-  });
-    
+
+    function openNewTab(link) {
+	    var frm = $('<form   method="get" action="' + link + '" target="_blank"></form>');
+	    $("body").append(frm);
+	 	frm.submit().remove();
+	}
+    $('#openlandingonnewtab').on("click", function () {
+    	alert("hello");
+        openNewTab("https://facturehero.com/")
+        return false;
+    });
+	  
 }(jQuery));
+
+
 </script>
 
 <!-- Start of LiveChat (www.livechatinc.com) code -->
