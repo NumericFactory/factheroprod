@@ -43,4 +43,9 @@ $__container->servers([
     {{-- If there is anything to migrate, migrate it 
     php artisan migrate
     --}}
+
+    
+    {{--
+    https://laravelista.com/posts/deploy-your-app-to-digitialocean-from-codeship-using-envoy
+    --}}
 @endtask
