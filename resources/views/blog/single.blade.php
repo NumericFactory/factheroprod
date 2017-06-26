@@ -89,7 +89,7 @@
 				<div class="section-content">
 					<div class="section-inner sectionLayout--insetColumn">
 
-						<h1 class="graf graf--h3 graf--leading graf--title">Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de facturation certifiéé.
+						<h1 class="graf graf--h3 graf--leading graf--title">Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de facturation certifié.
 						</h1>
 
 						<figure class="graf graf--figure graf-after--h3">
