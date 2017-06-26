@@ -101,7 +101,7 @@ padding: 1px;
                     @endif
                     
                     <div class="posrel inputone">
-                        <input autocomplete="off" autocapitalize="off" id="email" type="text" class="form-control inputText" name="email" value="{{ old('email') }}" />
+                        <input autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" id="email" type="text" class="form-control inputText" name="email" value="{{ old('email') }}" />
                          <span class="floating-label">email</span> 
                     </div>
                 </div>
