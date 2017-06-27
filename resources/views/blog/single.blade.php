@@ -11,33 +11,29 @@
 
 <link rel="canonical" href="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
 
- <meta property="fb:app_id" content="384168171984411" />  
-           <meta property="fb:admins" content="1069263654" />
-           <meta property="fb:page_id" content="250061608533397" /> 
-           <meta content="Entrepreneo.fr" property="og:site_name">
-           <meta property="og:locale" content="fr_FR" />
-           <meta property="og:title" content="Le crowdfunding ou le concept de financement participatif | Entrepreneo.fr">
-           <meta property="og:description" content="Le crowdfunding ou aussi financement participatif est un nouveau concept socio-économique dans le but d’emmagasiner des fonds. Les fonds peuvent se présenter sous différentes formes, à savoir sous...">
-           <meta property="og:url" content="http://entrepreneo.fr/financement/le-crowdfunding-ou-le-concept-de-financement-participatif-110">
-
-
-
 <meta name="title" content="Exclusif : Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de comptabilité certifié, voici pourquoi...">
-<meta name="referrer" content="always">
 <meta name="description" content="Après des mois à attendre les décisions gouvernementales sur cette loi, c'est par la voie du ministre de l'économie que vient la nouvelle, non les entrepreneurs et n'auront pas l'oblogation de s'équiper d'une solution de facturation certifiée...">
-<meta name="theme-color" content="#000000">
-<meta property="og:title" content="Exclusif : Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de comptabilité certifié, voici pourquoi...">
+
+<meta property="fb:app_id" content="384168171984411" />  
+<meta property="fb:admins" content="1069263654" />
+<meta property="fb:page_id" content="1159637867478313" /> 
+<meta content="FactureHero.com" property="og:site_name">
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:title" content="Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de facturation certifié.  | FactureHero.com">
+<meta property="og:description" content="Le Gouvernement revient sur l'obligation de s'équiper d'un logiciel de facturation certifié, FactureHero vous explique tout ...">
 <meta property="og:url" content="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
-<meta property="fb:app_id" content="542599432471018">
-<meta property="og:description" content="Frédéric LOSSIGNOL, fondateur, FactureHero.com">
-<meta name="twitter:description" content="Frédéric LOSSIGNOL, fondateur, FactureHero.com">
-<meta name="twitter:image:src" content=""><link rel="publisher" href="https://plus.google.com/103654360130207659246">
+<meta property="og:image" content="https://facturehero.com/img/logiciel-facturation-autoentrepreneur.png">
+
+	
+<meta name="theme-color" content="#000000">
+<meta name="twitter:description" content="Le Gouvernement revient sur l'obligation de s'équiper d'un logiciel de facturation certifié, FactureHero vous explique tout ...">
+<meta name="twitter:image:src" content="https://facturehero.com/img/logiciel-facturation-autoentrepreneur.png">
+<link rel="publisher" href="https://facturehero.com/">
 <meta name="twitter:site" content="@FactureHero">
-<meta property="og:site_name" content="FactureHero.com">
 
 <meta property="al:web:url" content="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
 
-<link rel="search" type="application/opensearchdescription+xml" title="Medium" href="/osd.xml">
+<link rel="search" type="application/opensearchdescription+xml" title="FactureHero" href="/osd.xml">
 
 <link rel="apple-touch-icon" sizes="152x152" href="https://cdn-images-1.medium.com/fit/c/152/152/1*W0nmth_X8nFKjn6BZ388UQ.png">
 <link rel="apple-touch-icon" sizes="120x120" href="https://cdn-images-1.medium.com/fit/c/120/120/1*W0nmth_X8nFKjn6BZ388UQ.png">
@@ -51,7 +47,7 @@
 <meta property="article:author" content="Blog FactureHero">
 <meta property="article:publisher" content="https://www.facebook.com/facturehero">
 <meta property="article:published_time" content="2017-06-15T10:35:36.812Z">
-<meta content="index, follow">
+
 
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
