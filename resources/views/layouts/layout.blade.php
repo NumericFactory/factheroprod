@@ -40,8 +40,8 @@
 <meta property="fb:page_id" content="1159637867478313" /> 
 <meta content="FactureHero.com" property="og:site_name">
 <meta property="og:locale" content="fr_FR" />
-<meta property="og:title" content="FactureHero, la solution de Facturation pour les Autoentrepreneurs. ">
-<meta property="og:description" content="Faites vos devis, factures, comptabilité le plus simplement du monde. FactureHero est une solution online développé par un Autoentrepreneur ...">
+<meta property="og:title" content="La solution de Facturation pour les Autoentrepreneurs. ">
+<meta property="og:description" content="Faites vos devis et factures le plus simplement du monde. FactureHero est  développé par un Autoentrepreneur ...">
 <meta property="og:url" content="https://facturehero.com/">
 <meta property="og:image" content="https://facturehero.com/img/logiciel-facturation-autoentrepreneur.png">
 </head>
