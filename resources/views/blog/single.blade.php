@@ -3,17 +3,19 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de facturation certifié | FactureHero, le blog</title>
+<title>Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de facturation certifié | FactureHero.com</title>
 
 
   <!-- Styles -->
 <link href="{{ asset('css/blogstyle.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="{{ asset('css/selection-sharer.css') }}" />
 
 <link rel="canonical" href="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
 
 <meta name="title" content="Exclusif : Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de comptabilité certifié, voici pourquoi...">
 <meta name="description" content="Après des mois à attendre les décisions gouvernementales sur cette loi, c'est par la voie du ministre de l'économie que vient la nouvelle, non les entrepreneurs et n'auront pas l'oblogation de s'équiper d'une solution de facturation certifiée...">
 
+<meta property="og:type"   content="article" /> 
 <meta property="fb:app_id" content="384168171984411" />  
 <meta property="fb:admins" content="1069263654" />
 <meta property="fb:page_id" content="1159637867478313" /> 
@@ -44,9 +46,9 @@
 
 <meta content="index, follow">
 <meta property="og:type" content="article">
-<meta property="article:author" content="Blog FactureHero">
-<meta property="article:publisher" content="https://www.facebook.com/facturehero">
-<meta property="article:published_time" content="2017-06-15T10:35:36.812Z">
+<meta property="article:author" content="Frédéric Lossignol">
+<meta property="article:publisher" content="https://plus.google.com/+FredericLossignol">
+<meta property="article:published_time" content="">
 
 
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -112,9 +114,9 @@
 							</figcaption>
 						</figure>
 
-						<p class="graf graf--p graf-after--figure graf--trailing">
-							<a href="http://frederic-lossignol.com" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Frédéric LOSSIGNOL
-						</a>, créateur de FactureHero.com<br> co-fondateur, Mouvement des Poussins Autoentrepreneurs</p>
+						<p style="font-size:18px" class="graf graf--p graf-after--figure graf--trailing">
+							<u><strong>Auteur</strong></u> : Frédéric LOSSIGNOL,
+							créateur de FactureHero.<br class="u-sm-hide"> Co-fondateur, Mouvement des Poussins Autoentrepreneurs.</p>
 
 					</div>
 				</div>
@@ -224,6 +226,8 @@
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="{{asset('js/selection-sharer.js') }}"></script>
+
 <script type="text/javascript">
 	
 	(function($){
@@ -236,7 +240,8 @@
    * @param  {[integer]} intHeight  [Popup height defalut 400]
    * @param  {[boolean]} blnResize  [Is popup resizeabel default true]
    */
-  $.fn.customerPopup = function (e, intWidth, intHeight, blnResize) {
+   	$('p').selectionSharer();
+  	$.fn.customerPopup = function (e, intWidth, intHeight, blnResize) {
     
     // Prevent default anchor event
     e.preventDefault();
