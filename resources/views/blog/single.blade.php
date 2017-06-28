@@ -36,11 +36,11 @@
 
 <link rel="search" type="application/opensearchdescription+xml" title="FactureHero" href="/osd.xml">
 
-<link rel="apple-touch-icon" sizes="152x152" href="https://cdn-images-1.medium.com/fit/c/152/152/1*W0nmth_X8nFKjn6BZ388UQ.png">
+<!-- <link rel="apple-touch-icon" sizes="152x152" href="https://cdn-images-1.medium.com/fit/c/152/152/1*W0nmth_X8nFKjn6BZ388UQ.png">
 <link rel="apple-touch-icon" sizes="120x120" href="https://cdn-images-1.medium.com/fit/c/120/120/1*W0nmth_X8nFKjn6BZ388UQ.png">
 <link rel="apple-touch-icon" sizes="76x76" href="https://cdn-images-1.medium.com/fit/c/76/76/1*W0nmth_X8nFKjn6BZ388UQ.png">
 <link rel="apple-touch-icon" sizes="60x60" href="https://cdn-images-1.medium.com/fit/c/60/60/1*W0nmth_X8nFKjn6BZ388UQ.png">
-<link rel="mask-icon" href="https://cdn-static-1.medium.com/_/fp/icons/favicon.KjTfUJo7yJH_fCoUzzH3cg.svg" color="#171717">
+<link rel="mask-icon" href="https://cdn-static-1.medium.com/_/fp/icons/favicon.KjTfUJo7yJH_fCoUzzH3cg.svg" color="#171717"> -->
 
 
 <meta content="index, follow">
@@ -166,7 +166,7 @@
 					<p class="graf graf--p graf-after--p">Tous les Autoentrepreneurs devront par conséquent être vigilants et veiller à la bonne application dans la loi de cette modification qui n'est pour le moment qu'une intention.</p>
 
 					<figure class="graf graf--figure graf-after--p" style="">
-						<img src="{{URL::asset('/img/communique-presse-logiciels-facturation-entrepreneurs-ministere-comptes-publics.png')}}">
+						<img style="width: 100%;height: auto;" src="{{URL::asset('/img/communique-presse-logiciels-facturation-entrepreneurs-ministere-comptes-publics.png')}}">
 						<figcaption class="imageCaption">(Extrait du communiqué de presse du Ministère des Comptes Publics)</figcaption>
 					</figure>
 
