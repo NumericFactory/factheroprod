@@ -111,7 +111,8 @@ class RegisterController extends Controller
             Mail::to($user->email)->send($email);
 
             DB::commit();
-            return back();
+            //return back();
+            return redirect('thankyou');
         }
         catch(Exception $e)
         {
@@ -129,7 +130,7 @@ class RegisterController extends Controller
         // The verified method has been added to the user model and chained here
         // for better readability
         User::where('email_token',$token)->firstOrFail()->verified();
-        return redirect('login');
+        return redirect('accountvalidate');
     }
 
 

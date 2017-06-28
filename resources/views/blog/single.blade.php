@@ -15,7 +15,7 @@
 <meta name="title" content="Exclusif : Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de comptabilité certifié, voici pourquoi...">
 <meta name="description" content="Après des mois à attendre les décisions gouvernementales sur cette loi, c'est par la voie du ministre de l'économie que vient la nouvelle, non les entrepreneurs et n'auront pas l'oblogation de s'équiper d'une solution de facturation certifiée...">
 
-<meta property="og:type"   content="article" /> 
+<meta property="og:type" content="article" /> 
 <meta property="fb:app_id" content="384168171984411" />  
 <meta property="fb:admins" content="1069263654" />
 <meta content="FactureHero.com" property="og:site_name">

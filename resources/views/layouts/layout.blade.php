@@ -84,7 +84,6 @@
           <ul class="social-icons">
             <li><a href="https://www.facebook.com/facturehero"><img alt="" src="img/social1.png"></a></li>
             <li><a href="https://twitter.com/facturehero"><img alt="" src="img/social2.png"></a></li>
-            <li><a href="https://www.linkedin.com/facturehero"><img alt="" src="img/social3.png"></a></li>
           </ul>
         </div>
       </div>

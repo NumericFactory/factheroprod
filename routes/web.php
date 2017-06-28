@@ -23,6 +23,9 @@ Route::get('logout', '\App\Http\Controllers\Auth\LoginController@logout');
 
 Route::post('register', '\App\Http\Controllers\Auth\RegisterController@create');
 
+Route::get('thankyou', 'UsersController@thanksAfterRegistration');
+Route::get('accountvalidate', 'UsersController@accountValidateAfterRegistration');
+
 Route::get('newuser', 'UsersController@showFormAfterRegistration');
 
 Route::get('register/verify/{token}', 'Auth\RegisterController@verify'); 
