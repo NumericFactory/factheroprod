@@ -1,5 +1,5 @@
 <html>
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# medium-com: http://ogp.me/ns/fb/medium-com#">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
 <link href="{{ asset('css/blogstyle.css') }}" rel="stylesheet">
 <link rel="stylesheet" href="{{ asset('css/selection-sharer.css') }}" />
 
-<link rel="canonical" href="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
+<link rel="canonical" href="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie">
 
 <meta name="title" content="Exclusif : Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de comptabilité certifié, voici pourquoi...">
 <meta name="description" content="Après des mois à attendre les décisions gouvernementales sur cette loi, c'est par la voie du ministre de l'économie que vient la nouvelle, non les entrepreneurs et n'auront pas l'oblogation de s'équiper d'une solution de facturation certifiée...">
@@ -23,7 +23,7 @@
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:title" content="Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de facturation certifié.  | FactureHero.com">
 <meta property="og:description" content="Le Gouvernement revient sur l'obligation de s'équiper d'un logiciel de facturation certifié, FactureHero vous explique tout ...">
-<meta property="og:url" content="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
+<meta property="og:url" content="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie">
 <meta property="og:image" content="https://facturehero.com/img/logiciel-facturation-autoentrepreneur.png">
 
 	
@@ -33,7 +33,7 @@
 <link rel="publisher" href="https://facturehero.com/">
 <meta name="twitter:site" content="@FactureHero">
 
-<meta property="al:web:url" content="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
+<meta property="al:web:url" content="https://facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie">
 
 <link rel="search" type="application/opensearchdescription+xml" title="FactureHero" href="/osd.xml">
 
