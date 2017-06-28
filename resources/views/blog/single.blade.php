@@ -144,11 +144,19 @@
 
 					<p class="graf graf--p graf-after--p">Et enfin, je pense absolument irréaliste et contre-productive cette mesure. En effet, il faut bien distinguer le logiciel d'encaissement (logiciels de caisse),  d'un logiciel de facturation. La majorité des fraudes contre lesquelles l'Etat essaie de lutter sont des fraudes de type "effacement après encaissement". Or, ces fraudes concernent bien une minorité de logiciels de caisse.</p>
 					
-
-					<p class="graf graf--p graf-after--p">J'ai créé FactureHero dans le but d'aider les Autoentrepreneurs dans leurs tâches de facturation-devis-comptabilité. Quand certains gros éditeurs avaient ici bien l'intention de profiter d'un marché captif d'autoentrepreneurs "obligés" d'acheter leur solution.</p>
+					<!-- PROMO INSTANT -->
+					<div style="background:#E9F0F5;padding: 5px 15px;margin-top: 29px;text-align: center;border: 1px solid #e1e4e8;" class="">
+					  <p class="graf graf--p graf-after--p selectionShareable" style="margin-top: 0 !important;">
+					    Testez FactureHero prochainement.
+					  </p>
+					  <a href="https://facturehero.com/" style="color: #2e5d8c !important;text-decoration: underline;" class="">Je m'inscris à la version beta</a>
+					  <i class="fa fa-angle-right" style="color: #2e5d8c !important;"></i>
+					</div>
+					<!-- FIN PROMO INSTANT -->
 
 					<h2>Bonne nouvelle : le gouvernement revient sur cette obligation</h2>
-
+					
+					
 					<p class="graf graf--p graf-after--p">Heureusement, la polémique soulevée par cette "nouvelle obligation" a été entendue par le Gouvernement Macron.
 
 					En effet, un communiqué de presse du Ministre des Comptes Publics <u>Gérald Darmanin</u>, indique clairement : <br>
@@ -158,11 +166,20 @@
 
 					<p class="graf graf--p graf-after--p">Tous les Autoentrepreneurs devront par conséquent être vigilants et veiller à la bonne application dans la loi de cette modification qui n'est pour le moment qu'une intention.</p>
 
+					<figure class="graf graf--figure graf-after--p" style="">
+						<img src="{{URL::asset('/img/communique-presse-logiciels-facturation-entrepreneurs-ministere-comptes-publics.png')}}">
+						<figcaption class="imageCaption">(Extrait du communiqué de presse du Ministère des Comptes Publics)</figcaption>
+					</figure>
+
 					<p class="graf graf--p graf-after--p"><strong>C'est en tout cas une très bonne nouvelle. Partagez et informez vos amis entrepreneurs le plus largement possible et <u>donnez votre avis en commentaire</u></strong>.</p>
 
 					<!-- FIN CONTENU DE L'ARTICLE -->
 
+								
+
+
 				</section>
+
 			</section>
 
 		</section>
@@ -171,9 +188,47 @@
 		</div>
 		
 		<footer class="u-paddingTop10">
+
+			
+
+
 			<div class="u-padding0 u-clearfix u-backgroundGrayLightest">
 				<div class="container u-maxWidth740">
 					<div class="responsesStreamWrapper u-maxWidth640">
+						<div class="container u-maxWidth640 responsesStream-title u-paddingTop15 u-sm-show">
+							<div class="row">
+								<header class="heading u-clearfix">
+									<div class="u-clearfix">
+										<div class="heading-content u-floatLeft">
+											<span class="heading-title heading-title--semibold">PARTAGER</span>
+										</div>
+									</div>
+								</header>
+							</div>
+						</div>
+
+						<ul class="social-icons shadow u-sm-show">
+						  <li class="tab">
+						    <a class="share" data-href-share="https://www.facebook.com/sharer/sharer.php?u=https%3A//facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/">
+						      <i class="fa fa-facebook circle"></i>
+						      <span class="screen-reader">Facebook</span>
+						    </a>
+						  </li>
+						  <li class="tab">
+						    <a class="share" data-href-share="https://twitter.com/home?status=Bonne%20nouvelle!Les%20%23Autoentrepreneurs%20n'ont%20plus%20pour%20obligation%20d'utiliser%20un%20logiciel%20de%20facturation%20certifi%C3%A9.%20http%3A//bit.ly/FactheroInfo">
+						      <i class="fa fa-twitter circle"></i>
+						      <span class="screen-reader">Twitter</span>
+						    </a>
+						  </li>
+						  <li class="tab">
+						    <a class="share" data-href-share="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//facturehero.com/blog/facturation-autoentrepreneurs-aucune-obligation-logiciel-certifie/&amp;title=Bonne%20nouvelle%20pour%20les%20Entrepreneurs%20!&amp;summary=Non%20les%20%23Autoentrepreneurs%20et%20les%20%23Entrepreneurs%20n'ont%20plus%20l'obligation%20d'utiliser%20un%20logiciel%20de%20facturation%20certifi%C3%A9.%20FactureHero.com%20vous%20explique%20pourquoi.&amp;source=FactureHero.com">
+						      <i class="fa fa-linkedin circle"></i>
+						      <span class="screen-reader">LinkedIn</span>
+						    </a>
+						  </li>
+						</ul>
+
+
 						<div class="container u-maxWidth640 responsesStream-title u-paddingTop15">
 							<div class="row">
 								<header class="heading u-clearfix">
