@@ -48,7 +48,7 @@
 <meta property="og:type" content="article">
 <meta property="article:author" content="Frédéric Lossignol">
 <meta property="article:publisher" content="https://plus.google.com/+FredericLossignol">
-<meta property="article:published_time" content="">
+<meta property="article:published_time" content="2017-06-27 07:54">
 
 
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
