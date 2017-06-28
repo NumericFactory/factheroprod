@@ -257,7 +257,7 @@
 <li class="u-uiTextSemibold u-textAlignCenter u-textColorNormal u-fontSize12 u-textUppercase">Partager
 </li>
 
-<li class="u-textAlignCenter"><div class="js-actionRecommend" data-post-id="27f617dd49ca" data-is-icon-29px="true" data-is-vertical="true" data-has-recommend-list="true" data-source="post_share_widget"><button class="button button--chromeless u-baseColor--buttonNormal  u-block u-marginAuto u-marginTopNegative5" data-action="show-recommends" data-action-value="27f617dd49ca">85</button></div>
+<li class="u-textAlignCenter"><div class="js-actionRecommend" data-post-id="27f617dd49ca" data-is-icon-29px="true" data-is-vertical="true" data-has-recommend-list="true" data-source="post_share_widget"><button class="button button--chromeless u-baseColor--buttonNormal  u-block u-marginAuto u-marginTopNegative5" data-action="show-recommends" data-action-value="27f617dd49ca">257</button></div>
 </li>
 
 <li class="u-textAlignCenter social-share-v">
