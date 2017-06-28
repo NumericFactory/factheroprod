@@ -18,7 +18,6 @@
 <meta property="og:type"   content="article" /> 
 <meta property="fb:app_id" content="384168171984411" />  
 <meta property="fb:admins" content="1069263654" />
-<meta property="fb:page_id" content="1159637867478313" /> 
 <meta content="FactureHero.com" property="og:site_name">
 <meta property="og:locale" content="fr_FR" />
 <meta property="og:title" content="Non les autoentrepreneurs n'auront pas l'obligation de s'équiper d'un logiciel de facturation certifié.  | FactureHero.com">
