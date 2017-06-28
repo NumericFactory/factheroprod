@@ -46,7 +46,7 @@
 
 <meta content="index, follow">
 <meta property="og:type" content="article">
-<meta property="article:author" content="Frédéric Lossignol">
+<meta property="article:author" content="https://www.facebook.com/frederic.lossignol">
 <meta property="article:publisher" content="https://plus.google.com/+FredericLossignol">
 <meta property="article:published_time" content="2017-06-27 07:54">
 
